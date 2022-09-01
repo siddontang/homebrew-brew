@@ -1,8 +1,8 @@
 class Xkcdsay < Formula
   desc "View the XKCD comics in the terminal"
   homepage "https://github.com/siddontang/xkcdsay"
-  url "https://github.com/siddontang/xkcdsay/archive/refs/tags/v0.3.tar.gz"
-  sha256 "0d62f894873a96e16eb97817020faf06dcd97f0b479f6f5b91e314a5b43656a3"
+  url "https://github.com/siddontang/xkcdsay/archive/refs/tags/v0.4.tar.gz"
+  sha256 "19159c3ccef3df893b088cfa118868e7b2c4f81c43f5f1cbd81be99c42927d50"
   license "MIT"
 
   depends_on "go" => :build
